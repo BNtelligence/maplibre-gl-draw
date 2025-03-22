@@ -1,5 +1,5 @@
 {
-  "name": "@birkskyum/maplibre-gl-draw",
+  "name": "maplibre-gl-draw",
   "description": "A drawing component for MapLibre GL JS",
   "author": "Birk Skyum",
   "license": "ISC",
